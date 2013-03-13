@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1363019555 source:/home/feemi/Desktop/codeblocks/Proje2_odev1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glx.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<X11/X.h>
+	<X11/keysym.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+
+1363106370 source:/home/feemi/Desktop/codeblocks/Proje2_odev1/main.cpp
+	<iostream>
+	<GL/gl.h>
+	<math.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1363202647 source:/home/feemi/Desktop/codeblocks/Proje2_odev1/src/MassiveSphere.cpp
+	"MassiveSphere.h"
+
+1363188341 /home/feemi/Desktop/codeblocks/Proje2_odev1/include/MassiveSphere.h
+	<stdio.h>
+	<GL/gl.h>
+	<math.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+
+1363203351 source:/home/feemi/Desktop/codeblocks/Proje2_odev1/src/Planet.cpp
+	<Planet.h>
+
+1363203365 /home/feemi/Desktop/codeblocks/Proje2_odev1/include/Planet.h
+	<MassiveSphere.h>
+
+1363205953 source:/home/feemi/Desktop/codeblocks/Proje2_odev1/src/main.cpp
+	<iostream>
+	<GL/gl.h>
+	<math.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<Planet.h>
+	<functions.h>
+
+1363206031 /home/feemi/Desktop/codeblocks/Proje2_odev1/include/functions.h
+	<SOIL/SOIL.h>
+

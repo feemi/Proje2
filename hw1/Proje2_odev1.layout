@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include/MassiveSphere.h" open="1" top="0" tabpos="3">
+		<Cursor position="351" topLine="13" />
+	</File>
+	<File name="include/Planet.h" open="1" top="0" tabpos="5">
+		<Cursor position="739" topLine="9" />
+	</File>
+	<File name="include/functions.h" open="1" top="0" tabpos="6">
+		<Cursor position="3922" topLine="151" />
+	</File>
+	<File name="src/MassiveSphere.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="396" topLine="15" />
+	</File>
+	<File name="src/Planet.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1388" topLine="47" />
+	</File>
+	<File name="src/main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="2294" topLine="125" />
+	</File>
+</CodeBlocks_layout_file>
